@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -60,3 +61,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# BasicCounterRedux
+>>>>>>> 5cec69104a1344dc10424a68e4a6f83a1593dd3d
